@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, there! Welcome to my GitHub!</h1>
 
-<!--
-**eport01/eport01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an interview prep app for users to view daily behavioral and technical questions and be able to save them to a dashboard. Backend built with Ruby on Rails and GraphQL, Frontend is TypeScript and React.js
+- 🌱 I’m currently learning... JavaScript, TypeScript, React.js, Node.js
+- 📫 How to reach me: **emilylport@gmail.com**
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## :bar_chart: Github Stats
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=eport01)](https://github.com/eport01/github-readme-stats)
