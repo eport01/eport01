@@ -1,12 +1,12 @@
 <h1 align="center">Hi, there! Welcome to my GitHub!</h1>
 
 ## About Me
-Former healthcare professional turned software engineer with a passion for developing clean, reusable, well-tested, and maintainable high quality software. Highly motivated, hardworking, efficient, and a strong team player, always learning and experimenting with new tools and technologies to share with the team. Experience building, testing, deploying, and monitoring software in production using automation tooling and git source control. 
-
-- 🔭 I’m currently working on an interview prep app for users to view daily behavioral and technical questions and be able to save them to a dashboard. Backend built with Ruby on Rails and GraphQL, Frontend is TypeScript and React.js
-- 🌱 I’m currently learning... JavaScript, TypeScript, React.js, Node.js
-- 📫 How to reach me: **emilylport@gmail.com**
-- 😄 Pronouns: she/her
+Software engineer specializing in AI/LLM systems — building production-grade agentic pipelines, custom MCP servers, and RAG architectures with tools like LangGraph, LangChain, n8n, Claude, and LlamaIndex.
+Currently engineering an AI-powered analytics platform with multi-model orchestration, 40+ tool functions, and real-time dealer risk analysis. Experienced across the full stack (Ruby on Rails, Python/Django, React) with a strong focus on deploying and monitoring AI in production.
+Former healthcare researcher turned engineer — I bring the same rigor I applied to clinical studies to building clean, well-tested, maintainable software.
+📍 Denver, CO · Open to remote
+📫 emilylport@gmail.com
+😄 she/her
 
 
 ## :bar_chart: Github Stats
